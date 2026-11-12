@@ -1,6 +1,24 @@
 # Jamel Gerao - Green Jade Personal Portfolio
 
+
+live veiw;  https://jamjamgerao-beep.github.io/personal-portfolio/
+
 A responsive personal portfolio website built using **HTML5 and CSS3 only**.
+
+
+my-website/
+│
+├── index.html
+├── about.html
+├── gallery.html
+│
+├── css/
+│ └── style.css
+│
+├── images/
+│ └── image-files
+│
+└── README.md
 
 ## Features
 
